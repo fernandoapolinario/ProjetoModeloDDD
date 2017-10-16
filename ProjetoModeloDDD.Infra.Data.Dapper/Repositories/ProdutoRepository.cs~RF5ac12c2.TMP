@@ -1,0 +1,23 @@
+﻿
+using System.Collections.Generic;
+using System.Linq;
+using ProjetoModeloDDD.Domain.Entities;
+using ProjetoModeloDDD.Domain.Interfaces.Repositories;
+using System;
+using DapperExtensions;
+
+namespace ProjetoModeloDDD.Infra.Data.Dapper.Repositories
+{
+    public class ProdutoRepository : RepositoryBase<Produto>, IProdutoRepository
+    {
+        public IEnumerable<Produto> BuscarPorNome(string nome)
+        {
+            using (var db = Context)
+            {
+                var predicate = Predicates.Field(filter, Operator.Eq, value);
+
+                return db.GetList<TModel>(predicate).ToArray();
+            }
+        }
+    }
+}

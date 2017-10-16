@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dapper.Contrib</id>
+    <version>1.50.0</version>
+    <title>Dapper.Contrib</title>
+    <authors>Sam Saffron, Johan Danforth</authors>
+    <owners>Sam Saffron, Johan Danforth</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/StackExchange/dapper-dot-net</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The official collection of get, insert, update and delete helpers for dapper.net. Also handles lists of entities and optional "dirty" tracking of interface-based entities.</description>
+    <summary>Dapper.Contrib</summary>
+    <copyright>2016 Stack Exchange, Inc.</copyright>
+    <tags>orm sql micro-orm dapper</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0">
+        <dependency id="Dapper" version="1.50.0" />
+      </group>
+      <group targetFramework=".NETFramework4.5">
+        <dependency id="Dapper" version="1.50.0" />
+      </group>
+      <group targetFramework="Unsupported0.0">
+        <dependency id="Microsoft.CSharp" version="4.0.1" />
+        <dependency id="Dapper" version="1.50.0" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Data" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Data.Linq" targetFramework=".NETFramework4.0" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework=".NETFramework4.5" />
+      <frameworkAssembly assemblyName="System.Data.Linq" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

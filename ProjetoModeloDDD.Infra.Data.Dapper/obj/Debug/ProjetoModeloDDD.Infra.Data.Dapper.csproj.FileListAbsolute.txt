@@ -1,0 +1,12 @@
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\obj\Debug\ProjetoModeloDDD.Infra.Data.Dapper.csprojResolveAssemblyReference.cache
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\ProjetoModeloDDD.Infra.Data.Dapper.dll
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\ProjetoModeloDDD.Infra.Data.Dapper.pdb
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\Dapper.dll
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\DapperExtensions.dll
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\Dapper.xml
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\DapperExtensions.pdb
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\obj\Debug\ProjetoModeloDDD.Infra.Data.Dapper.dll
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\obj\Debug\ProjetoModeloDDD.Infra.Data.Dapper.pdb
+C:\Users\fernandohas1\Downloads\ProjetoModeloDDD.Application\ProjetoModeloDDD.Infra.Data.Dapper\bin\Debug\Dapper.Contrib.dll
